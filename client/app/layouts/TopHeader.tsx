@@ -35,9 +35,9 @@ const TopHeader = () => {
           </div>
 
           <div className="topheader-contact-item">
-            {/* <Link href={'https://m.me/659299587268782'} target="blank">
-            <Image src={'/messenger1.png'} width={23} height={23} alt="" />  */}
-            <span>Message us</span>
+            <Link href={'https://m.me/659299587268782'} target="blank">
+            {/* <Image src={'/messenger1.png'} width={23} height={23} alt="" /> 
+            <span>Message us</span> */}
             </Link>
           </div>
         </div>
