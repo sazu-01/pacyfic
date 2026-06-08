@@ -6,7 +6,7 @@ import Link from "next/link";
 import "@/css/TopHeader.css";
 
 //icons
-import Image from "next/image";
+// import Image from "next/image";
 
 const TopHeader = () => {
 
