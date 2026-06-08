@@ -29,14 +29,14 @@ const TopHeader = () => {
 
           <div className="topheader-contact-item">
             <Link href={'https://api.whatsapp.com/send?phone=8801600930467'} target="blank">
-            <Image width={20} height={20} src='/whatsapp.png' alt="whatsapp" className="topheader-icon" />
-            <span>01600930467</span>
+            {/* <Image width={20} height={20} src='/whatsapp.png' alt="whatsapp" className="topheader-icon" />
+            <span>01600930467</span> */}
             </Link>
           </div>
 
           <div className="topheader-contact-item">
-            <Link href={'https://m.me/659299587268782'} target="blank">
-            <Image src={'/messenger1.png'} width={23} height={23} alt="" /> 
+            {/* <Link href={'https://m.me/659299587268782'} target="blank">
+            <Image src={'/messenger1.png'} width={23} height={23} alt="" />  */}
             <span>Message us</span>
             </Link>
           </div>
